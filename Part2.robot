@@ -15,3 +15,6 @@ logintoApplication
         Input Text      xpath: //input[@id='Email']    text="Test@123"
         Input Text      xpath: //input[@id='Password']     Passwordd
         Click Element   xpath: //button[normalize-space()='Log in']
+        #Close Browser
+        #Close Browser
+        #Closing Browsers
